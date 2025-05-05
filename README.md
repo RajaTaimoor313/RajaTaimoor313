@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RajaTaimoor313
 - 👀 I’m interested in Mobile Application Development and Web Development
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently working on Application Development
 - 💞️ I’m looking to collaborate on Development
 - 📫 Contact me
 - 😄 Pronouns: ...
