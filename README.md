@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RajaTaimoor313
-- 👀 I’m interested in Mobile/Desktop/Web Application Development
-- 🌱 I’m currently working in Flutter
-- 💞️ I’m looking to collaborate on Development
+- 👀 I’m working in Mobile/Desktop/Web Application Development
+- 🌱 I’m currently using Flutter for Development
+- 💞️ I’m looking to collaborate
 - 📫 Contact me: taimoor.callous@gmail.com
