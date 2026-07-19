@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Building+Smart+and+Secure+Apps;Flutter+%7C+Python+%7C+Cyber+Security;Turning+Ideas+into+Reality" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Building+Smart+and+Secure+Apps;Flutter+%7C+Python+%7C+Cyber+Security;Where+Flutter+Meets+AI+and+Cyber+Security" />
 
 <br/>
 
