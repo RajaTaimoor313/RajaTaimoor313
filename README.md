@@ -1,18 +1,12 @@
-<!-- ======================= HEADER ======================= -->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Raja%20Taimoor&fontColor=F5F5F5&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20|%20AI%20%26%20ML%20Enthusiast%20|%20Future%20MS%20Student&descAlignY=60"/>
+# 👋 Hi, I'm Raja Taimoor
 
-<br/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Flutter+Developer;AI+%26+Machine+Learning+Learner;Building+Smart+Applications;Future+MS+Student+in+Europe" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Flutter+Developer;AI+%26+Machine+Learning+Learner;Building+Smart+Applications;Turning+Ideas+Into+Real+Products" />
+<br>
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=RajaTaimoor313&label=Profile%20Views&color=6366F1&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/RajaTaimoor313?style=for-the-badge&color=8B5CF6&logo=github"/>
-<img src="https://img.shields.io/badge/Focus-Flutter%20%7C%20AI%20%7C%20ML-00D9FF?style=for-the-badge"/>
+![](https://komarev.com/ghpvc/?username=RajaTaimoor313&label=PROFILE+VIEWS&style=for-the-badge)
 
 </div>
 
@@ -20,85 +14,83 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" width="350" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
 ```javascript
 const rajaTaimoor = {
-  role: "Flutter Developer",
-  location: "Pakistan 🇵🇰",
-  education: "BS Information Technology",
-  focus: [
-    "Flutter Development",
-    "AI-Powered Applications",
-    "Machine Learning"
-  ],
-  tech: [
-    "Flutter",
-    "Laravel",
-    "Firebase",
-    "Python"
-  ],
-  projects: [
-    "Smart Career Builder",
-    "Islamic Dhikr App",
-    "Portfolio Website"
-  ],
-  learning: [
-    "Machine Learning",
-    "Deep Learning",
-    "Artificial Intelligence"
-  ],
-  goal: "Build impactful software and intelligent systems"
+    location: "Pakistan 🇵🇰",
+    education: "BS Information Technology",
+    role: "Flutter Developer",
+    focus: [
+        "Flutter Development",
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Backend Development"
+    ],
+    technologies: [
+        "Flutter",
+        "Dart",
+        "Laravel",
+        "Firebase",
+        "Python"
+    ],
+    currentProjects: [
+        "Smart Career Builder",
+        "Islamic Dhikr App",
+        "Portfolio Website"
+    ],
+    goal: "Build impactful AI-powered applications"
 };
 ```
 
-📱 Developing cross-platform applications with Flutter
+### 🚀 What I'm Doing
 
-🤖 Exploring Artificial Intelligence & Machine Learning
+- 📱 Building cross-platform apps with Flutter
+- 🤖 Learning Artificial Intelligence & Machine Learning
+- 🌐 Developing scalable backend systems
+- 🔥 Improving software architecture skills
+- 🎓 Planning MS studies in Europe
 
-🌐 Building modern web and mobile solutions
-
-🔥 Passionate about clean architecture and scalable systems
-
-🎓 Future MS Student in AI / Computer Science
-
-> “Every expert was once a beginner who refused to quit.”
+> **"Every expert was once a beginner who refused to give up."**
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🤖 Smart Career Builder
-
 AI-powered Resume & Career Mentor application built with Flutter.
 
 ### 📿 Islamic Dhikr App
-
 Modern Islamic app with Arabic & English support, Light & Dark themes.
 
 ### 🌐 Portfolio Website
-
-Personal portfolio hosted on Firebase showcasing projects, skills, and achievements.
+Personal portfolio hosted on Firebase.
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RajaTaimoor313&show_icons=true&theme=radical&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=RajaTaimoor313&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RajaTaimoor313&theme=radical&hide_border=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajaTaimoor313&layout=compact&theme=radical&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=RajaTaimoor313&theme=tokyonight&hide_border=true"/>
 
 </div>
 
-### 📈 Contribution Graph
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajaTaimoor313&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RajaTaimoor313&theme=radical&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RajaTaimoor313&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -106,77 +98,63 @@ Personal portfolio hosted on Firebase showcasing projects, skills, and achieveme
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+### Frontend
 
-### 🎨 Frontend
-
+<p>
 <img src="https://skillicons.dev/icons?i=flutter,dart,html,css,js"/>
+</p>
 
-### ⚙️ Backend
+### Backend
 
+<p>
 <img src="https://skillicons.dev/icons?i=laravel,firebase,nodejs"/>
+</p>
 
-### 🗄️ Database
+### Databases
 
+<p>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+</p>
 
-### 🤖 AI / ML
+### AI / ML
 
+<p>
 <img src="https://skillicons.dev/icons?i=python"/>
+</p>
 
-### 🛠️ Tools
+### Tools
 
+<p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman"/>
-
-</div>
+</p>
 
 ---
 
 ## 🎯 Current Focus
 
-📱 Advanced Flutter Development
-
-🤖 Machine Learning & Deep Learning
-
-🌐 Scalable Backend Development
-
-🚀 AI-powered Mobile Applications
-
-🎓 MS Admissions in Europe (Germany, Sweden, Austria)
+- 📱 Advanced Flutter Development
+- 🤖 Machine Learning & Deep Learning
+- 🌐 Backend API Development
+- 🚀 AI-Powered Mobile Applications
+- 🎓 MS Admissions in Germany, Sweden & Austria
 
 ---
 
-## 🏆 Goals for 2026
+## 🏆 Goals 2026
 
-✅ Strengthen AI & ML Skills
-
-✅ Build Real-World AI Applications
-
-✅ Complete Advanced Flutter Projects
-
-✅ Start MS in Europe
-
-✅ Contribute More to Open Source
+- ✅ Strengthen AI & ML Skills
+- ✅ Build Production-Level Applications
+- ✅ Contribute to Open Source
+- ✅ Start MS in Europe
+- ✅ Become an AI Engineer
 
 ---
 
-## 🤝 Let's Connect
-
-📧 Email: [your-email@example.com](mailto:your-email@example.com)
-
-💼 Open for Internship, Collaboration & Freelance Opportunities
+## 🤝 Connect With Me
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-
-<a href="YOUR_GITHUB_URL">
+<a href="https://github.com/RajaTaimoor313">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -188,14 +166,16 @@ Personal portfolio hosted on Firebase showcasing projects, skills, and achieveme
 
 <div align="center">
 
-Flutter • AI • Machine Learning • Continuous Learning
+### Flutter • AI • Machine Learning • Continuous Learning
 
 ✨ Building software today that solves tomorrow's problems.
 
 </div>
 
+---
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/>
+### Thanks for visiting my profile ❤️
 
 </div>
