@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Muhammad%20Awais&fontColor=F5F5F5&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20|%20Backend%20Developer%20|%20AI%20Enthusiast&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Raja%20Taimoor&fontColor=F5F5F5&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20|%20Backend%20Developer%20|%20AI%20Enthusiast&descAlignY=60"/>
 
 <br/>
 
