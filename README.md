@@ -10,8 +10,8 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=6366F1&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&color=8B5CF6&logo=github"/>
+<img src="https://komarev.com/ghpvc/?username=RajaTaimoor313&label=Profile%20Views&color=6366F1&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/RajaTaimoor313?style=for-the-badge&color=8B5CF6&logo=github"/>
 <img src="https://img.shields.io/badge/Focus-Flutter%20%7C%20AI%20%7C%20ML-00D9FF?style=for-the-badge"/>
 
 </div>
@@ -86,11 +86,11 @@ Personal portfolio hosted on Firebase showcasing projects, skills, and achieveme
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=RajaTaimoor313&show_icons=true&theme=radical&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RajaTaimoor313&theme=radical&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajaTaimoor313&layout=compact&theme=radical&hide_border=true"/>
 
 </div>
 
@@ -98,7 +98,7 @@ Personal portfolio hosted on Firebase showcasing projects, skills, and achieveme
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RajaTaimoor313&theme=radical&hide_border=true"/>
 
 </div>
 
